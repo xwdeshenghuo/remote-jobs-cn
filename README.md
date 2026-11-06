@@ -1,6 +1,6 @@
 # 💼 远程工作岗位精选（中文）| Remote Jobs CN
 
-**2026-11-05 更新 · 今日精选 15 个** — 全部在家办公，职位名已译中文，点链接看原文详情。
+**2026-11-06 更新 · 今日精选 15 个** — 全部在家办公，职位名已译中文，点链接看原文详情。
 
 ## 📲 每天推送新岗位
 👉 **远程工作线报 https://t.me/RemoteJobsDailyHub** — 每天更新，机器人 @aishengzhang_bot 点开始可领「本周远程岗位精选」。
@@ -9,6 +9,8 @@
 
 | 职位（中文） | 公司 | 薪资 | 标签 | 申请 |
 |---|---|---|---|---|
+| 高级基础设施和安全工程师（Senior Staff Infrastructure & Security Engineer） | CivilGrid | $137k–$192k/年 | infosec、design、dev | [申请](https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687) |
+| AI Content Reviewer Video Annotation（AI Content Reviewer Video Annotation） | iMerit | $80k–$90k/年 | content writing、ai、other | [申请](https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686) |
 | 软件工程师（Software Engineer） | Claims | $10k–$30k/年 | dev、ai、blockchain | [申请](https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685) |
 | 入门级在线安排和协调预订（Entry Level Scheduling &amp; Coordinating Reservations Online） | Destination Careers | 面议 | education、coordinator、customer support | [申请](https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680) |
 | 并购实践实习生（M&A Praktikum Intern） | Vogel | $4k–$4k/年 | testing、marketing、exec | [申请](https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677) |
@@ -22,8 +24,6 @@
 | 软件工程师基础设施（Software Engineer Infrastructure） | Sodalis, Inc. | $185k–$215k/年 | dev、design、embedded | [申请](https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614) |
 | 团队主管客户经理（Team Lead Account Executive） | Capmo | 面议 | saas、exec、junior | [申请](https://remoteOK.com/remote-jobs/remote-team-lead-account-executive-capmo-1137613) |
 | 虚拟目的地婚礼协调员（Virtual Destination Wedding Coordinator） | Destination Careers | 面议 | design、coordinator、customer support | [申请](https://remoteOK.com/remote-jobs/remote-virtual-destination-wedding-coordinator-destination-careers-1137611) |
-| 合作伙伴运营经理（Partner Operations Manager） | Mecka | $80k–$100k/年 | exec、design、education | [申请](https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609) |
-| 科学客户经理（Scientific Account Executive） | Adaptyv | 面议 | design、technical、customer support | [申请](https://remoteOK.com/remote-jobs/remote-scientific-account-executive-adaptyv-1137608) |
 
 ---
 避坑：先交钱=骗局、要垫资=骗局、面试只走文字还催你装陌生 App=警惕、合同主体查不到=别签。数据来源 RemoteOK，投递前请在原站核实。
