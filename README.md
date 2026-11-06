@@ -10,7 +10,7 @@
 | 职位（中文） | 公司 | 薪资 | 标签 | 申请 |
 |---|---|---|---|---|
 | 高级基础设施和安全工程师（Senior Staff Infrastructure & Security Engineer） | CivilGrid | $137k–$192k/年 | infosec、design、dev | [申请](https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687) |
-| AI Content Reviewer Video Annotation（AI Content Reviewer Video Annotation） | iMerit | $80k–$90k/年 | content writing、ai、other | [申请](https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686) |
+| AI内容审阅视频注释（AI Content Reviewer Video Annotation） | iMerit | $80k–$90k/年 | content writing、ai、other | [申请](https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686) |
 | 软件工程师（Software Engineer） | Claims | $10k–$30k/年 | dev、ai、blockchain | [申请](https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685) |
 | 入门级在线安排和协调预订（Entry Level Scheduling &amp; Coordinating Reservations Online） | Destination Careers | 面议 | education、coordinator、customer support | [申请](https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680) |
 | 并购实践实习生（M&A Praktikum Intern） | Vogel | $4k–$4k/年 | testing、marketing、exec | [申请](https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677) |
