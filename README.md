@@ -9,8 +9,8 @@
 
 | 职位（中文） | 公司 | 薪资 | 标签 | 申请 |
 |---|---|---|---|---|
+| 注册护士（Registered Nurse） | Caringhand Home Health Solutions, Inc. | $0k–$0k/年 | education、supervisor、customer support | [申请](https://remoteOK.com/remote-jobs/remote-registered-nurse-caringhand-home-health-solutions-inc-1137695) |
 | 会计员（Accountant） | Serve Robotics | $90k–$110k/年 | accounting、design、customer support | [申请](https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694) |
-| 人物产品高级全栈工程师（Senior Full Stack Engineer People Products） | Thumbtack | 面议 | full stack、design、saas | [申请](https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693) |
 | 敏捷项目经理（Agile Program Manager） | Toptal | 面议 | program management、Agile、Scrum | [申请](https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692) |
 | Feltsense AI工程师（Feltsense AI Engineer） | Silver.dev | $60k–$110k/年 | design、sys admin、exec | [申请](https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691) |
 | 适用于人工智能供应链任务设计的Python运营专家（Operations Expert with Python for AI Supply Chain Task Design） | Toptal | 面议 | Docker、Git、Inventory Management | [申请](https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690) |
