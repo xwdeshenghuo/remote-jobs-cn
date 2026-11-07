@@ -9,13 +9,13 @@
 
 | 职位（中文） | 公司 | 薪资 | 标签 | 申请 |
 |---|---|---|---|---|
-| Accountant（Accountant） | Serve Robotics | $90k–$110k/年 | accounting、design、customer support | [申请](https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694) |
-| Senior Full Stack Engineer People Products（Senior Full Stack Engineer People Products） | Thumbtack | 面议 | full stack、design、saas | [申请](https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693) |
-| Agile Program Manager（Agile Program Manager） | Toptal | 面议 | program management、Agile、Scrum | [申请](https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692) |
-| Feltsense AI Engineer（Feltsense AI Engineer） | Silver.dev | $60k–$110k/年 | design、sys admin、exec | [申请](https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691) |
+| 会计员（Accountant） | Serve Robotics | $90k–$110k/年 | accounting、design、customer support | [申请](https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694) |
+| 人物产品高级全栈工程师（Senior Full Stack Engineer People Products） | Thumbtack | 面议 | full stack、design、saas | [申请](https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693) |
+| 敏捷项目经理（Agile Program Manager） | Toptal | 面议 | program management、Agile、Scrum | [申请](https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692) |
+| Feltsense AI工程师（Feltsense AI Engineer） | Silver.dev | $60k–$110k/年 | design、sys admin、exec | [申请](https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691) |
 | 适用于人工智能供应链任务设计的Python运营专家（Operations Expert with Python for AI Supply Chain Task Design） | Toptal | 面议 | Docker、Git、Inventory Management | [申请](https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690) |
-| ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)（ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)） | Toptal | 面议 | Artificial Intelligence、Docker、Git | [申请](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689) |
-| Senior Vue Developer（Senior Vue Developer） | Lemon.io | $50k–$180k/年 | engineer、dev、full time | [申请](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688) |
+| 机器学习推理工程师-终端台任务设计师（ vLLM/SGLang/TensorRT-LLM ）（ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)） | Toptal | 面议 | Artificial Intelligence、Docker、Git | [申请](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689) |
+| 高级Vue开发人员（Senior Vue Developer） | Lemon.io | $50k–$180k/年 | engineer、dev、full time | [申请](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688) |
 | 高级基础设施和安全工程师（Senior Staff Infrastructure & Security Engineer） | CivilGrid | $137k–$192k/年 | infosec、design、dev | [申请](https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687) |
 | AI内容审阅视频注释（AI Content Reviewer Video Annotation） | iMerit | $80k–$90k/年 | content writing、ai、other | [申请](https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686) |
 | 软件工程师（Software Engineer） | Claims | $10k–$30k/年 | dev、ai、blockchain | [申请](https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685) |
