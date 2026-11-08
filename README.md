@@ -1,6 +1,6 @@
 # 💼 远程工作岗位精选（中文）| Remote Jobs CN
 
-**2026-11-07 更新 · 今日精选 15 个** — 全部在家办公，职位名已译中文，点链接看原文详情。
+**2026-11-08 更新 · 今日精选 15 个** — 全部在家办公，职位名已译中文，点链接看原文详情。
 
 ## 📲 每天推送新岗位
 👉 **远程工作线报 https://t.me/RemoteJobsDailyHub** — 每天更新，机器人 @aishengzhang_bot 点开始可领「本周远程岗位精选」。
@@ -9,6 +9,8 @@
 
 | 职位（中文） | 公司 | 薪资 | 标签 | 申请 |
 |---|---|---|---|---|
+| 人工智能开发者（AI Developer） | Salvo Software | 面议 | dev、grafana、infosec | [申请](https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701) |
+| 初级市场分析师（Junior Market Analyst） | MEYA HOLDINGS | $60k–$80k/年 | other、crypto、finance | [申请](https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700) |
 | 注册护士（Registered Nurse） | Caringhand Home Health Solutions, Inc. | $0k–$0k/年 | education、supervisor、customer support | [申请](https://remoteOK.com/remote-jobs/remote-registered-nurse-caringhand-home-health-solutions-inc-1137695) |
 | 会计员（Accountant） | Serve Robotics | $90k–$110k/年 | accounting、design、customer support | [申请](https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694) |
 | 敏捷项目经理（Agile Program Manager） | Toptal | 面议 | program management、Agile、Scrum | [申请](https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692) |
@@ -22,8 +24,6 @@
 | 入门级在线安排和协调预订（Entry Level Scheduling &amp; Coordinating Reservations Online） | Destination Careers | 面议 | education、coordinator、customer support | [申请](https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680) |
 | 并购实践实习生（M&A Praktikum Intern） | Vogel | $4k–$4k/年 | testing、marketing、exec | [申请](https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677) |
 | 美国付费媒体经理（Paid Media Manager US ） | Kyra | 面议 | exec、customer support、testing | [申请](https://remoteOK.com/remote-jobs/remote-paid-media-manager-us-kyra-1137675) |
-| 销售运营分析师（Sales Operations Analyst） | Calabrio | $75k–$75k/年 | analyst、saas、salesforce | [申请](https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674) |
-| 技术主管（Tech lead） | Ringbook Limited | $40k–$50k/年 | dev、exec、accounting | [申请](https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673) |
 
 ---
 避坑：先交钱=骗局、要垫资=骗局、面试只走文字还催你装陌生 App=警惕、合同主体查不到=别签。数据来源 RemoteOK，投递前请在原站核实。
